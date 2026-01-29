@@ -31,12 +31,12 @@ public class Test {
     // Main method
     public static void main(String[] args) {
         int x = 589;
-        int y = 10;
+        int y = 1000;
 
-        add(x, y);
-        sub(x, y);
-        mul(x, y);
-        div(x, y);
+        add(y, x);
+        sub(y, x);
+        mul(y, x);
+        div(y, x);
     }
 }
 
